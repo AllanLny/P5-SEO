@@ -41,7 +41,10 @@ body {
 .social-link img {
 	width: 20px;
 }
-
+img {
+	width: auto;
+	height: auto;
+}
 #about {
 	display: flex;
 	background-color: #F6D2B8;
