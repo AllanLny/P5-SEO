@@ -105,6 +105,7 @@ body {
 }
 .gallery .nav {
 	justify-content: center;
+	
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
@@ -113,6 +114,9 @@ body {
 	border-radius:0 ;
 
 }	
+.nav{
+	cursor: pointer;
+}
 .nav-link{
 	cursor: pointer;
 }
